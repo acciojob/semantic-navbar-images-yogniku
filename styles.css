@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+body {
+	padding:0px;
+	margin:0px;
+}
+
+h1{
+	text-align:center;
+}
